@@ -4,3 +4,5 @@ This repository contains prototype implementations in D3.js for the algorithms i
 feasibility of the algorithms therein. No compile needed. 
 
 No external viewer required. Just download the files and: (1) open with browser to view the segment placements, or (2) open with text editor to examine the codes.
+
+[Figure 2d](figure2d.png)
