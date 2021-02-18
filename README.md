@@ -1,6 +1,6 @@
 # segmentplacer
 
-This repository contains prototype implementations in D3.js for the algorithms in the paper [Placing Segments On Parallel Arcs](https://link.springer.com/chapter/10.1007/978-3-319-94667-2_25), meant only for testing the feasibility of the algorithms therein. 
+This repository contains prototype implementations in D3.js for the algorithms in the paper [Placing Segments On Parallel Arcs (2018)](https://link.springer.com/chapter/10.1007/978-3-319-94667-2_25), meant only for testing the feasibility of the algorithms therein. 
 
 ![Figure 2d](./figure2d.png)
 
